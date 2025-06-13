@@ -1,0 +1,21 @@
+{
+  "name": "otomazlum",
+  "version": "1.0.0",
+  "main": "index.html",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build needed'",
+    "start": "npx serve .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": "OTO MAZLUM - Otomotiv Yedek Parça Website"
+}
